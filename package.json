@@ -1,6 +1,6 @@
 {
   "name": "@reultra/npm-install-to",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jean-Baptiste Martin",
   "main": "lib/index.js",
   "dependencies": {
